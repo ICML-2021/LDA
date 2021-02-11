@@ -1,5 +1,7 @@
 # Long-tailed Distribution Adaptation
 
+This project is built upon [BBN](https://github.com/Megvii-Nanjing/BBN).
+
 ## Usage
 1. Training
 ```bash
