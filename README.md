@@ -2,6 +2,11 @@
 
 This project is built upon [BBN](https://github.com/Megvii-Nanjing/BBN).
 
+## Installation
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 1. Training
 ```bash
